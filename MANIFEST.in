@@ -1,0 +1,2 @@
+include MashStepWithActorNotif/config.yaml
+recursive-include MashStepWithActorNotif/static *
